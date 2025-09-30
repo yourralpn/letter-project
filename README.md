@@ -1,2 +1,2 @@
 # letter-project
-"read this!"
+"This is for you, i hope you read this!"
