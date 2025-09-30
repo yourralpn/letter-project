@@ -1,9 +1,13 @@
 const message = `
 Hi, Aina Silvia Monicha.
+
 Selamat ulang tahun yang ke-17 ya!.
-Pada hari ini, segala doa yang terbaik ku langitkan hanya untukmu. Semoga segala hal yang membuatmu terjatuh, menjadi alasan kamu untuk selalu bertumbuh. Semoga dunia senantiasa menjaga dirimu di mana pun kamu berada.
+
+Pada hari ini, segala doa yang terbaik ku langitkan hanya untukmu. Semoga segala hal yang membuatmu terjatuh, menjadi alasan kamu untuk selalu bertumbuh.
 Meskipun tak ada kue tart yang bernyalakan lilin dariku, jangan padamkan segala doa terbaik yang kupanjatkan untukmu.
+
 Berbahagialah. 
+
 Sweet Seventeen, Aina Silvia Monicha...`;
 
 function showLetter() {
@@ -29,5 +33,6 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
 
 
