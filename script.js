@@ -1,4 +1,4 @@
-const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you sometimes.\n\nWe both tried. We both cared. But the universe just never gave us enough space to become “us.”\n\nI just wonder… if we had met at a different point in life, would the ending have been different?\n\nAnyway, I hope you're doing okay, even though we’re not in each other’s lives anymore.`;
+const message = `\n\nHi, Aina Silvia Monicha.\n\nSelamat ulang tahun yang ke-17 ya!.\n\nPada hari ini, segala doa yang terbaik ku langitkan hanya untukmu. Semoga segala hal yang membuatmu terjatuh, menjadi alasan kamu untuk selalu bertumbuh. Semoga dunia senantiasa menjaga dirimu di mana pun kamu berada.\n\nMeskipun tak ada kue tart yang bernyalakan lilin dariku, jangan padamkan segala doa terbaik yang kupanjatkan untukmu.\n\nBerbahagialah. \n\nSweet Seventeen, Aina Silvia Monicha...`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
@@ -21,3 +21,4 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
