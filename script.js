@@ -1,5 +1,4 @@
 const message = `
-
 Hi, Aina Silvia Monicha.
 
 Selamat ulang tahun yang ke-17 ya!.
@@ -35,3 +34,4 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
